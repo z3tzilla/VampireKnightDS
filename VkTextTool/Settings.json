@@ -1,0 +1,101 @@
+﻿{
+  "PathToArm9Bin": "",
+  "PathToSaveModifiedArm9Bin": "",
+  "PathToFontMap": "",
+  "ExportDirectory": "",
+  "IgnoreRegionsForPointerScan": [
+    {
+      "From": 620000,
+      "To": 657500 
+    }
+  ],
+  "Injection": {
+    "FileFooterPointer": 2976,
+    "EndOfFilePointer": 2980,
+    "InjectionAddressPointer": 2984
+  },
+  "Blocks": [
+    {
+      "Description": "MainText",
+      "Offset": 732384,
+      "Length": 554696,
+      "Sorted": true
+    },
+    {
+      "Description": "DataErrors",
+      "Offset": 1763056,
+      "Length": 304
+    },
+    {
+      "Description": "Time",
+      "Offset": 1763472,
+      "Length": 140
+    },
+    {
+      "Description": "NameEntryScreen",
+      "Offset": 1805924,
+      "Length": 4340
+    },
+    {
+      "Description": "SaveLoad",
+      "Offset": 1812228,
+      "Length": 212
+    },
+    {
+      "Description": "OptionMenuScreen",
+      "Offset": 1813800,
+      "Length": 104
+    },
+    {
+      "Description": "VoiceData",
+      "Offset": 1813912,
+      "Length": 19852
+    },
+    {
+      "Description": "Dresses",
+      "Offset": 1871368,
+      "Length": 380
+    },
+    {
+      "Description": "ShowingDressesToCharacters",
+      "Offset": 1873292,
+      "Length": 224
+    },
+    {
+      "Description": "Items",
+      "Offset": 1873552,
+      "Length": 1428
+    },
+    {
+      "Description": "Minigames",
+      "Offset": 1890492,
+      "Length": 1332
+    },
+    {
+      "Description": "CharacterNames",
+      "Offset": 1895708,
+      "Length": 160
+    },
+    {
+      "Description": "AdditionalText",
+      "Offset": 1896068,
+      "Length": 15712
+    },
+    {
+      "Description": "Prices",
+      "Offset": 1912668,
+      "Length": 700
+    },
+    {
+      "Description": "ItemShop",
+      "Offset": 1915712,
+      "Length": 4156
+    },
+    {
+      "Description": "Endings",
+      "Offset": 1931444,
+      "Length": 300
+    }
+  ],
+  "PathsToTranslatedFiles" : []
+}
